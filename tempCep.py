@@ -1,7 +1,7 @@
 import requests
 from pycep_correios import get_address_from_cep, WebService
 
-API_KEY = '99f692a33acc9f7adb006e87f4707064'
+API_KEY = 'XXX'
 
 
 def getTemperature(cep):
